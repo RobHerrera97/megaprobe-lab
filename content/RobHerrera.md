@@ -13,7 +13,10 @@ Research Description
 My research will involve comparing different genomes between healthy and diseased tissue in order to ascertain interesting variance between the two.
 
 Week 1
+======
 
 I read and analyzed the following paper *Kevlar: a mapping-free framework for accurate discovery of De Novo Variant*
 
 Week 2
+=====
+
